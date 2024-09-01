@@ -3,6 +3,8 @@
 Reponsitory (Repo): thư mục 
 Branch ( cành )
 Conflict ( xung đột)
+Local (Những dữ liệu hình ảnh  mọi thứ  đã có trên máy của mình )
+Remote (Những thứ chưa có trên máy của mình )
 
 # Commands (có nghĩa là lệnh)
 
@@ -20,3 +22,4 @@ git checkout -b {branch name} (tên của branch)
 
 git merge {branch name} (tên chúng ta muốn tổng hợp lại)
 git branch -d {branch name} ( xóa đi một tên branch)
+git push ( giúp đẩy lên trên local remote của mình )
