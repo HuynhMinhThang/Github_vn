@@ -15,4 +15,7 @@ git checkout ( muốn trở về 1 commit nào đó )
 git checkout master (trở về commit hiện tại)
 git checkout {branch name}
 git branch
-git checkout -b {branch name} (tên của branch)cl
+git checkout -b {branch name} (tên của branch)
+
+git merge {branch name} (tên chúng ta muốn tổng hợp lại)
+git branch -d {branch name} ( xóa đi một tên branch)
