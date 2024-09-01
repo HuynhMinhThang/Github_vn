@@ -2,6 +2,7 @@
 
 Reponsitory (Repo): thư mục 
 Branch ( cành )
+Conflict ( xung đột)
 
 # Commands (có nghĩa là lệnh)
 
