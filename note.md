@@ -23,3 +23,8 @@ git checkout -b {branch name} (tên của branch)
 git merge {branch name} (tên chúng ta muốn tổng hợp lại)
 git branch -d {branch name} ( xóa đi một tên branch)
 git push ( giúp đẩy lên trên local remote của mình )
+git remote add origin {repo url}(đường hướng dẫn)
+git push origin {branch name}
+git clone {repo origin}
+git checkout -b {branch name } origin/{branch name}
+git fetch
